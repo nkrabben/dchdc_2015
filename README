@@ -1,0 +1,13 @@
+## Digital Cultural Heritage DC 2015 Survey
+Analysis of the DCHDC survey in R.
+
+### Data
+
+* DCHDC-Survey-data.xslx - Raw data 
+* dchdc_survey_results_cleaned.csv - A cleaned version of the raw data created by datacleaning.R
+* dchdc_survey_codebook.csv - A codebook created by datacleaning.R to describe the survey results.
+
+### Scripts
+
+* datacleaning.r - change column names, remove unused variables
+* exploredata.r - exploratory analysis of the cleaned data
